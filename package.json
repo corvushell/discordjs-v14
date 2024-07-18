@@ -1,0 +1,35 @@
+{
+  "name": "discordjs-v14",
+  "version": "1.0.0",
+  "description": "Discordjs mobil uyumlu boş şablon - yeni başlayanlara uygun",
+  "main": "corvus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corvushell/discordjsv14.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "bots",
+    "node",
+    "discordbot",
+    "nodejs",
+    "javascript",
+    "tutorial"
+  ],
+  "author": "Corvus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corvushell/discordjsv14/issues"
+  },
+  "homepage": "https://github.com/corvushell/discordjsv14#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.30.1"
+  }
+}
