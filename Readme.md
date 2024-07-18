@@ -10,7 +10,7 @@ Bu, `discord.js` ve Node.js kullanılarak oluşturulmuş, komutları ve olaylar�
 ## Kurulum
 Başlamak için depoyu klonlayın ve bağımlılıkları yükleyin:
 ```bash
-git clone https://github.com/corvushell/discordjsv-v14
+git clone https://github.com/corvushell/discordjs-v14
 cd discordjs-v14
 npm install
 ```
