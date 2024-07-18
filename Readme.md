@@ -12,7 +12,7 @@ Başlamak için depoyu klonlayın ve bağımlılıkları yükleyin:
 ```bash
 git clone https://github.com/corvushell/discordjsv-v14
 cd discordjs-v14
-npm installl
+npm install
 ```
 ## Yapılandırma
 Bot yapılandırması settings/config.js dosyasında saklanır. Bu dosya, bot token'ınızı ve diğer gerekli ayarları içeren bir nesneyi dışa aktarmalıdır. settings klasöründeki config.js dosyasına gelip tokeninizi 3. satıra yerleştirmeniz lazım.
